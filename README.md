@@ -2,7 +2,7 @@
 
 ## Visit NetFlix--Clone at the address below
 
-[Netflix Clone]("https://talismar.github.io/netflix_clone/")
+<a href="https://talismar.github.io/netflix_clone/" target="_blank" >Netflix Clone WebSite</a>
 
 
 
